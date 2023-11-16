@@ -14,7 +14,7 @@ Los factores de riesgo laboral en informática pueden incluir:
 
   4- Radiación: La exposición a la radiación de las pantallas de computadoras puede tener efectos en la salud visual a largo plazo.
 
-5-  Fatiga visual: El uso prolongado de pantallas puede provocar fatiga visual y otros problemas relacionados con la vista.
+5-  *Fatiga visual:* El uso prolongado de pantallas puede provocar fatiga visual y otros problemas relacionados con la vista.
 ***
 # Los efectos del Riesgo 
 
@@ -22,9 +22,13 @@ El riesgo laboral en informática puede tener varios efectos, que van desde impa
 
     
 1- Problemas de Salud Física
+
 2- Impacto en la Salud Mental
+
   3- Riesgos Ergonómicos
-    4- Amenazas de Seguridad Cibernética
+  
+  4- Amenazas de Seguridad Cibernética
+    
    5- Interrupciones Laborales
    
 ***
