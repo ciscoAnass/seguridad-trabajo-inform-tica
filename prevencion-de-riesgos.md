@@ -18,5 +18,12 @@ La implementación efectiva de medidas de prevención de riesgos puede tener var
   **3- Cumplimiento Normativo:** La prevención de riesgos ayuda a cumplir con las normativas y regulaciones de seguridad, evitando sanciones legales y mejorando la reputación de la organización.
 
    **4- Clima Laboral Positivo:** La preocupación por la seguridad y el bienestar de los trabajadores contribuye a un clima laboral positivo, mejorando la moral y la satisfacción de los empleados.
+
+***
+# Conclusion
+
+La prevención de riesgos es fundamental para salvaguardar la seguridad y el bienestar de las personas, tanto en entornos laborales como en la vida cotidiana. Identificar, evaluar y controlar los riesgos no solo reduce la incidencia de accidentes y enfermedades, sino que también contribuye a la creación de ambientes más saludables, productivos y sostenibles. La adopción de prácticas seguras no solo es un deber ético, sino también una inversión en la protección de vidas y la promoción de una cultura que valora la prevención como un componente esencial del desarrollo.
+
+   
    
 En resumen, los efectos de la prevención de riesgos son beneficiosos tanto para las personas como para las organizaciones, promoviendo entornos más seguros, saludables y sostenibles.
