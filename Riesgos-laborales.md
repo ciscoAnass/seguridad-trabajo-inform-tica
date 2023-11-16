@@ -3,6 +3,9 @@
 
 El riesgo laboral en informática se refiere a posibles peligros o condiciones que puedan afectar la salud y seguridad de los trabajadores en el campo de la tecnología de la información, abarcando desde problemas ergonómicos hasta amenazas cibernéticas.
 
+
+<img src="/2.jpg" alt="foto" width="600px">
+
 ***
 # Factores del riesgo
 
@@ -35,6 +38,13 @@ El riesgo laboral en informática puede tener varios efectos, que van desde impa
 # Como se puede evitar los riesgos ?
 
 Para evitar riesgos laborales en informática, es crucial implementar medidas preventivas. Esto incluye el diseño ergonómico de estaciones de trabajo para minimizar problemas musculoesqueléticos, proporcionar capacitación en ciberseguridad para prevenir amenazas en línea, establecer políticas de gestión del tiempo que reduzcan el estrés, y promover pausas activas para prevenir la fatiga visual y mejorar la salud en general. Además, se deben realizar evaluaciones periódicas de riesgos laborales y fomentar una cultura organizacional que valore la seguridad y el bienestar de los empleados.
+
+***
+
+
+# Referencias
+## [Referencia 1 : wikipedia.org](https://en.wikipedia.org/wiki/Occupational_hazard)
+## [Referencia 2 : facilitamos.catedu.es](https://facilitamos.catedu.es/previo/fpinformatica/INFOR_U2_1_riesgo_laboral_y_medio_ambienteZIP/wiki_sobre_los_riesgos_laborables_y_las_medidas_preventivas.html)
 
 
 
