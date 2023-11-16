@@ -13,14 +13,17 @@ La prevención de riesgos se refiere a la aplicación de medidas y estrategias d
 
 La implementación efectiva de medidas de prevención de riesgos puede tener varios efectos positivos en un entorno laboral o en cualquier otro ámbito. Algunos de estos efectos incluyen:
 
-  **1- Reducción de Accidentes y Lesiones:** La prevención de riesgos ayuda a identificar y mitigar las condiciones peligrosas, lo que conduce a una disminución en la frecuencia de accidentes y lesiones.
-
- **2- Incremento de la Productividad:** Un entorno de trabajo seguro y saludable fomenta la eficiencia y la productividad al reducir interrupciones causadas por accidentes, bajas laborales y ausentismo.
+  **1- Reducción de Accidentes y Lesiones:**
+  
+ **2- Incremento de la Productividad:**
  
-  **3- Cumplimiento Normativo:** La prevención de riesgos ayuda a cumplir con las normativas y regulaciones de seguridad, evitando sanciones legales y mejorando la reputación de la organización.
+  **3- Cumplimiento Normativo:** 
 
-   **4- Clima Laboral Positivo:** La preocupación por la seguridad y el bienestar de los trabajadores contribuye a un clima laboral positivo, mejorando la moral y la satisfacción de los empleados.
+   **4- Clima Laboral Positivo:**
+   
+   **5- Protección del Medio Ambiente**
 
+**6- Protección del Medio Ambiente**
 ***
 # Conclusion
 
