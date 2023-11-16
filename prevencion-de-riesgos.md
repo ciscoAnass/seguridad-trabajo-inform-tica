@@ -7,7 +7,7 @@ La prevención de riesgos se refiere a la aplicación de medidas y estrategias d
 
 ***
 
-
+# Los efectos de la prevencion de riesgos
 
 La implementación efectiva de medidas de prevención de riesgos puede tener varios efectos positivos en un entorno laboral o en cualquier otro ámbito. Algunos de estos efectos incluyen:
 
