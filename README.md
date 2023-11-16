@@ -4,6 +4,7 @@
 
 ***
 ![logo](/1.jpg)
+<img src="/1.jpg" alt="logo" width="400px"></img>
 
 
 # Indice
