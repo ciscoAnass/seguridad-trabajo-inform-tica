@@ -1,4 +1,4 @@
-# seguridad-trabajo-informatica
+# Seguridad de Trabajo Informatica
 
 
 
