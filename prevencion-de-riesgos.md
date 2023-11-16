@@ -32,3 +32,11 @@ La prevención de riesgos es fundamental para salvaguardar la seguridad y el bie
    
    
 En resumen, los efectos de la prevención de riesgos son beneficiosos tanto para las personas como para las organizaciones, promoviendo entornos más seguros, saludables y sostenibles.
+
+***
+
+# Referencias
+
+## [Referencia 1 : Escuala Andaluza de salud Publica ](https://www.easp.es/web/blogps/2019/01/24/de-la-prevencion-de-riesgos-a-la-promocion-de-la-salud/)
+## [Referencia 2 : wikipedia.org ](https://es.wikipedia.org/wiki/Prevenci%C3%B3n_de_riesgos_laborales)
+
