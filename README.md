@@ -21,3 +21,10 @@
 ![License](/license.png)
 
 ***
+
+# Autores
+***
+
+## [Anass Assim](https://github.com/ciscoAnass)
+## [Arturo Kronos Fernández Curiel](https://github.com/ArturoKronos)
+## [Iván Palma Sierra](https://github.com/Ivanps1709)
