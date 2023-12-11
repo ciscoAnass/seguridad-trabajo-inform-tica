@@ -4,7 +4,7 @@
 
 La prevención de riesgos se refiere a la aplicación de medidas y estrategias destinadas a evitar o reducir la ocurrencia de eventos que puedan causar daño a las personas, la propiedad o el medio ambiente. Su objetivo es identificar, evaluar y controlar los riesgos para garantizar un entorno seguro y saludable, minimizando la probabilidad de accidentes, enfermedades laborales y otros eventos no deseados.
 
-<img src="/3.jpg" alt="foto" width="500px">
+<img src="/img/3.jpg" alt="foto" width="500px">
 
 
 ***
