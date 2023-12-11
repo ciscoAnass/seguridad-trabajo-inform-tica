@@ -4,7 +4,7 @@
 
 ***
 
-<img src="/1.jpg" alt="logo" width="400px"></img>
+<img src="/img/1.jpg" alt="logo" width="400px"></img>
 
 
 # Indice
@@ -18,7 +18,7 @@
 ***
 ## License
 
-![License](/license.png)
+![License](/img/license.png)
 
 ***
 
