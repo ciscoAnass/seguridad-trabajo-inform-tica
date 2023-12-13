@@ -4,7 +4,7 @@
 El riesgo laboral en informática se refiere a posibles peligros o condiciones que puedan afectar la salud y seguridad de los trabajadores en el campo de la tecnología de la información, abarcando desde problemas ergonómicos hasta amenazas cibernéticas.
 
 
-<img src="/img/2.jpg" alt="foto" width="600px">
+<img src="/img/13.jpg" alt="foto" width="600px">
 
 ***
 # Factores del riesgo
