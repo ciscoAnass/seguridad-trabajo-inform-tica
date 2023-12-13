@@ -11,13 +11,14 @@ El riesgo laboral en informática se refiere a posibles peligros o condiciones q
 
 Los factores de riesgo laboral en informática pueden incluir:
 
-  **1- Ergonómicos:** Posturas inadecuadas, mobiliario inapropiado y uso prolongado de dispositivos pueden causar trastornos musculoesqueléticos.
+| Syntax      | Description |
+| ----------- | ----------- |
+| Ergonómicos      |  Posturas inadecuadas, mobiliario inapropiado y uso prolongado de dispositivos pueden causar trastornos musculoesqueléticos.       |
+| Psicosociales   | Altas demandas laborales, plazos ajustados y presión constante pueden contribuir al estrés y afectar la salud mental de los trabajadores.        |
+| Radiación   | La exposición a la radiación de las pantallas de computadoras puede tener efectos en la salud visual a largo plazo.        |
+| Fatiga visual   | El uso prolongado de pantallas puede provocar fatiga visual y otros problemas relacionados con la vista.        |
 
-  **2- Psicosociales:** Altas demandas laborales, plazos ajustados y presión constante pueden contribuir al estrés y afectar la salud mental de los trabajadores.
 
-  **4- Radiación:** La exposición a la radiación de las pantallas de computadoras puede tener efectos en la salud visual a largo plazo.
-
-**5-Fatiga visual:** El uso prolongado de pantallas puede provocar fatiga visual y otros problemas relacionados con la vista.
 ***
 # Los efectos del Riesgo 
 
