@@ -40,7 +40,7 @@ El riesgo laboral en informática puede tener varios efectos, que van desde impa
 
 Para evitar riesgos laborales en informática, es crucial implementar medidas preventivas. Esto incluye el diseño ergonómico de estaciones de trabajo para minimizar problemas musculoesqueléticos, proporcionar capacitación en ciberseguridad para prevenir amenazas en línea, establecer políticas de gestión del tiempo que reduzcan el estrés, y promover pausas activas para prevenir la fatiga visual y mejorar la salud en general. Además, se deben realizar evaluaciones periódicas de riesgos laborales y fomentar una cultura organizacional que valore la seguridad y el bienestar de los empleados.
 
-<img src="/img/info6.jpg" alt="foto" width="600px">
+<img src="/img/info6.jpg" alt="foto" width="500px">
 
 
 ***
