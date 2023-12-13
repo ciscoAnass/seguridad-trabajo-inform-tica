@@ -11,7 +11,7 @@ El riesgo laboral en informática se refiere a posibles peligros o condiciones q
 
 Los factores de riesgo laboral en informática pueden incluir:
 
-  | Factores      | Description |
+  | Factores      | Descripcion |
 | ----------- | ----------- |
 | Ergonómicos      |  Posturas inadecuadas, mobiliario inapropiado y uso prolongado de dispositivos pueden causar trastornos musculoesqueléticos.       |
 | Psicosociales   | Altas demandas laborales, plazos ajustados y presión constante pueden contribuir al estrés y afectar la salud mental de los trabajadores.        |
